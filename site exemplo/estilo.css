@@ -1,0 +1,20 @@
+body {
+
+background: #000000 url("attachment.jpg") no-repeat right top fixed;
+}
+
+a {
+color: #ffffff
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 8pt;
+text-decoration: none:
+}
+
+address {
+
+text-transform: uppercase;
+text-align: center:
+font-family:Arial, Helvetica, sans-serif;
+font-size: 7pt;
+}
